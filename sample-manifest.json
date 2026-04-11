@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9230671e-f480-41d3-84ff-c30a0f5a3d1e",
+  "id_short": 339029,
+  "published_at": "2026-04-11T19:30:51Z",
+  "repo_name": "restaurant-social-ghosts-in-nevada-us-sample-339029",
+  "sample_asset_name": "beamstation_339029_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/339029/beamstation_339029_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "3b6c5d39c6383a4b3122f38091617baba1bedfc032a98e2bbba42b8501f93b5b",
+  "sample_size_bytes": 25688,
+  "total_records": 39
+}
