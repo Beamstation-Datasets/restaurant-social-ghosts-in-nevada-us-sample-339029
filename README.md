@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Nevada, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `339029` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 6 records |
-| Free sample size | 1 records (16.67%) |
-| Last export | 2026-04-22T17:37:30.320396+00:00 |
+| Full dataset size | 60 records |
+| Free sample size | 6 records (10.0%) |
+| Last export | 2026-04-29T17:23:36.288359+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-nevada-us-sample-339029/releases/download/sample-latest/beamstation_339029_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
